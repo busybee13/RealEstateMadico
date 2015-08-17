@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/about_us">
+
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/scrollView"
+        android:layout_gravity="center">
+
+        <RelativeLayout
+            android:orientation="horizontal"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:paddingBottom="20dp">
+
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView1"
+                android:src="@drawable/ic_badgers"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+            <ImageView
+                android:layout_below="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/imageView2"
+                android:src="@drawable/divider_black"
+                android:layout_gravity="center"
+                android:layout_marginTop="0dp"
+                android:layout_marginBottom="0dp"
+                android:layout_centerHorizontal="true"/>
+
+            <ImageView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/imageView3"
+                android:src="@drawable/divider_green"
+                android:layout_gravity="center"
+                android:paddingTop="6dp"
+                android:layout_below="@+id/imageView1"
+                android:layout_centerHorizontal="true"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="About Us"
+                android:textColor="@color/Gray"
+                android:id="@+id/textView"
+                android:layout_below="@+id/imageView3"
+                android:layout_alignLeft="@+id/imageView1"
+                android:layout_alignStart="@+id/imageView1" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="We are small team that like to develop awesome Apps . We specialize in several App categories aimed to service small businesses.\n\n If you are looking for a great Team that will customize your App to fit your own needs. Just contact us."
+                android:id="@+id/textView2"
+
+                android:layout_alignLeft="@+id/imageView1"
+                android:layout_alignStart="@+id/imageView1"
+                android:layout_alignRight="@+id/imageView1"
+                android:layout_marginTop="28dp"
+                android:layout_below="@id/textView"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:text="Contact Us"
+                android:textColor="@color/White"
+                android:textStyle="bold"
+                android:paddingTop="0dp"
+                android:onClick="sendMessage"
+                android:id="@+id/sendEmail"
+                android:layout_gravity="center"
+                android:layout_below="@+id/textView2"
+                android:layout_marginTop="40dp"
+
+                android:layout_alignRight="@+id/imageView1"
+                android:layout_alignEnd="@+id/imageView1"
+                android:layout_alignLeft="@+id/imageView1"
+                android:layout_alignStart="@+id/imageView1"
+                android:background="@drawable/contact_us_button"
+                android:layout_alignParentEnd="false"
+                android:clickable="true"
+                android:paddingBottom="0dp"
+                android:autoText="true"/>
+
+
+        </RelativeLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

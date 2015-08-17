@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\classes-a99d4669ed49b87a5e4310308b10440cb1758e17.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\classes-04375bb37aded0cf79a9fa936557074573fb4de5.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\classes-78859429997718f9c2bddf9667a0d8d5d099df66.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\classes-df09538c7e753cebca37369cd75550df2cae8ef9.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\libs\NiceSupportMapFragment.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0732bf6f8cf76d2f57febfefc960a59f7ecc05c9">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\NiceSupportMapFragment-59b639722c6a21e9858c24a3002519b16974ab3f.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\classes-f994f85478ece2bada70e53c0182beab946ce1f3.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\libs\httpmime-4.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="326bf4147f100e8a4fdd7f1867a87e969fb10812">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\httpmime-4.0.1-f0af0e80eb286b839b485819cf8ca81d42610a35.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\classes-4b0794395bffaa573ec971cadaa22b84073a3d0b.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\RealEstate Madico\library\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ae05243bd7faa6740df4460775ea24783b1bc003">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\classes-4713188ed3fd71754e3c704027bca12d7dc3b5e7.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\classes-84b5ed22270a91a8781381c86292482e07951a5e.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\classes-effd8206435a63f0a3cca90c0cc6345a033fb1c5.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\classes-8d43594d01f5b198127e33eb4d5f44b13f24561f.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\classes-c17c9222310f6f223ab35d3b62a8ca3ad300a6b5.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\classes-e495e12838af8d04b18035407958976fd5d56272.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\classes-2effc5ab9ed2b800f50b638afaccc546013c5be0.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\classes-0c59f6fa493cbec3db25259f91bf8cd8c95f5204.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ahmad Masri\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\gson-2.3-836f8ef3e026d252f0552ef556b8bb3f041aecaf.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\classes-df16b51c5d267d541bfb637f90042b2401226bc6.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-7e75ada82b02a9edd4804fc38bae232cce923d03.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-2970e6e6e2cfc235c634e8bde2eaef55422e0c41.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\libs\apache-mime4j-0.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="945007627e8d12275d755081a9e609c018e1210d">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\apache-mime4j-0.6-3ad0ddef4e19839283dcb2806d7e18c66a8da7a2.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\classes-d1b5593dc9db878747cf10002d21e458dc118227.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\classes-52b3b3d73b3cb0bfba6d490fcf840bd103596a0d.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\classes-7c28c7b2da1571ec484d505ed56b41a903e26942.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\classes-a671243c3cb6e30a587093474e1a074db2246ee0.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\classes-4187be0f070572575ac8bcb57d1815a3fef56d5b.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\classes-6f3574c06d178a64de13bc6ca0c192c18e9527fd.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\classes-82b23c96b21482ee5ccfc0e5600f49c3fe17b381.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\libs\ion-1.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="776baf5cac8eb4145dc0901254122cf956a784e3">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\ion-1.2.4-3e2a9e8c46575874db6282c976cf869436d0bba3.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\classes-489b2fd7c8e5d82cab02531fe49589f8c8b37af8.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\classes-ed968fb07460ebaa387dbb2446b5de72537173cc.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\libs\androidasync-1.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8dc7111050ee5f13a54b1206d47fee856159b2aa">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\androidasync-1.2.4-80ec038e4aef2f3d57df31d1e715b490520b69c0.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-fad25c1dd7f83e8369083dc6d922b1036423cccb.jar" />
+    </item>
+    <item
+        jar="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="D:\Android Dev Bundle\Projects\Code\RealEstate Madico\realEstate\build\intermediates\pre-dexed\debug\classes-066dd67a073803b852981b201d0602d6d840f84b.jar" />
+    </item>
+
+</items>

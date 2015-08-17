@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NiceSupportMapFragment">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/realEstate/libs/NiceSupportMapFragment.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
